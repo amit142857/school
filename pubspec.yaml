@@ -20,7 +20,9 @@ version: 1.0.0+1
 environment:
   sdk: ">=2.7.0 <3.0.0"
 
+
 dependencies:
+  curved_navigation_bar: ^0.3.7
   flutter_image_slideshow: ^0.0.3
   flutter:
     sdk: flutter
